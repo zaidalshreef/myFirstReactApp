@@ -80,6 +80,11 @@ body {
   margin-top: 0.5em;
 }
 
+button:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+ 
 .email-button {
   background-image: url(../public/Button.svg);
   background-position: center;
